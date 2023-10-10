@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1CE144F6-5F62-41E0-ADE9-BBE0E15488C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyGiaoHang</RootNamespace>
+    <AssemblyName>QuanLyGiaoHang</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountTypeWithID.cs" />
+    <Compile Include="DAO\contractDAO.cs" />
+    <Compile Include="DAO\DataProviderHelpers.cs" />
+    <Compile Include="DAO\DoiTacDAO.cs" />
+    <Compile Include="DAO\DriverInfoDAO.cs" />
+    <Compile Include="DAO\HopDongDAO.cs" />
+    <Compile Include="DAO\OrderDAO.cs" />
+    <Compile Include="DAO\OrderInfoDAO.cs" />
+    <Compile Include="DAO\CustomerDAO.cs" />
+    <Compile Include="DAO\MenuDAO.cs" />
+    <Compile Include="DAO\PartnerDAO.cs" />
+    <Compile Include="CustomerForm\fXemDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForm\fXemDonHang.Designer.cs">
+      <DependentUpon>fXemDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAO\StoreDAO.cs" />
+    <Compile Include="DriverForm\fDoitac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fDoitac.designer.cs">
+      <DependentUpon>fDoitac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverForm\fDriver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fDriver.designer.cs">
+      <DependentUpon>fDriver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverForm\fDriverInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fDriverInfo.designer.cs">
+      <DependentUpon>fDriverInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverForm\fHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fHopDong.designer.cs">
+      <DependentUpon>fHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverForm\fInsertStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fInsertStore.designer.cs">
+      <DependentUpon>fInsertStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverForm\fMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fMenu.designer.cs">
+      <DependentUpon>fMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverForm\fTaoHopDong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fTaoHopDong.designer.cs">
+      <DependentUpon>fTaoHopDong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverForm\fThuNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fThuNhap.designer.cs">
+      <DependentUpon>fThuNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DriverForm\fXuLyDonHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DriverForm\fXuLyDonHang.designer.cs">
+      <DependentUpon>fXuLyDonHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DTO\contract.cs" />
+    <Compile Include="DTO\DoiTac.cs" />
+    <Compile Include="DTO\DriverInfo.cs" />
+    <Compile Include="DTO\HopDong.cs" />
+    <Compile Include="DTO\MenuInfo.cs" />
+    <Compile Include="DTO\Order.cs" />
+    <Compile Include="DTO\OrderInfo.cs" />
+    <Compile Include="DTO\ListOrder.cs" />
+    <Compile Include="DTO\Lapdonhnag.cs" />
+    <Compile Include="DTO\Donhang.cs" />
+    <Compile Include="DTO\Menuinf.cs" />
+    <Compile Include="DTO\DoiTacinf.cs" />
+    <Compile Include="DTO\CustomerInf.cs" />
+    <Compile Include="DAO\AccountDAO.cs" />
+    <Compile Include="DAO\Database.cs" />
+    <Compile Include="DAO\DataProvider.cs" />
+    <Compile Include="DTO\OrderInfo1.cs" />
+    <Compile Include="DTO\partner.cs" />
+    <Compile Include="DTO\Store.cs" />
+    <Compile Include="fLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fLogin.Designer.cs">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForm\fCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForm\fCustomer.Designer.cs">
+      <DependentUpon>fCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForm\fHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForm\fHoaDon.Designer.cs">
+      <DependentUpon>fHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForm\DanhSachDoiTac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForm\DanhSachDoiTac.Designer.cs">
+      <DependentUpon>DanhSachDoiTac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fRegister_KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRegister_KhachHang.Designer.cs">
+      <DependentUpon>fRegister_KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForm\fThaydoithongtin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForm\fThaydoithongtin.Designer.cs">
+      <DependentUpon>fThaydoithongtin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerForm\fThongtin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerForm\fThongtin.Designer.cs">
+      <DependentUpon>fThongtin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fRegister_TaiXe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fRegister_TaiXe.Designer.cs">
+      <DependentUpon>fRegister_TaiXe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaffForm\NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaffForm\NhanVien.designer.cs">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="System\Configuration\ConfigurationManager.cs" />
+    <EmbeddedResource Include="DriverForm\fDoitac.resx">
+      <DependentUpon>fDoitac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverForm\fDriver.resx">
+      <DependentUpon>fDriver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverForm\fDriverInfo.resx">
+      <DependentUpon>fDriverInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverForm\fHopDong.resx">
+      <DependentUpon>fHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverForm\fInsertStore.resx">
+      <DependentUpon>fInsertStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverForm\fMenu.resx">
+      <DependentUpon>fMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverForm\fTaoHopDong.resx">
+      <DependentUpon>fTaoHopDong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverForm\fThuNhap.resx">
+      <DependentUpon>fThuNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DriverForm\fXuLyDonHang.resx">
+      <DependentUpon>fXuLyDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRegister_KhachHang.resx">
+      <DependentUpon>fRegister_KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForm\DanhSachDoiTac.resx">
+      <DependentUpon>DanhSachDoiTac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fLogin.resx">
+      <DependentUpon>fLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForm\fCustomer.resx">
+      <DependentUpon>fCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForm\fHoaDon.resx">
+      <DependentUpon>fHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForm\fThaydoithongtin.resx">
+      <DependentUpon>fThaydoithongtin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForm\fThongtin.resx">
+      <DependentUpon>fThongtin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fRegister_TaiXe.resx">
+      <DependentUpon>fRegister_TaiXe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerForm\fXemDonHang.resx">
+      <DependentUpon>fXemDonHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="StaffForm\NhanVien.resx">
+      <DependentUpon>NhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-g36f8687ba_1920.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

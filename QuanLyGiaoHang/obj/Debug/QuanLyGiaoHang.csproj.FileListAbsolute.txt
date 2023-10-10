@@ -1,0 +1,106 @@
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.exe.config
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.exe
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.pdb
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.exe
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.pdb
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fLogin.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fCustomer.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.DanhSachDoiTac.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fHoaDon.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThaydoithongtin.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThongtin.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fRegister_KhachHang.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fRegister_TaiXe.resources
+C:\Users\ADMIN\source\repos\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fXemDonHang.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.exe.config
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.exe
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.pdb
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fRegister_KhachHang.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.DanhSachDoiTac.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fLogin.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fCustomer.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fHoaDon.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThaydoithongtin.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThongtin.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fRegister_TaiXe.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fXemDonHang.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.exe
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.pdb
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.NhanVien.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDoitac.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDriver.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDriverInfo.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fHopDong.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fInsertStore.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fMenu.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fTaoHopDong.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThuNhap.resources
+C:\Users\ADMIN\OneDrive - VNU-HCMUS\Desktop\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fXuLyDonHang.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.exe.config
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.exe
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.pdb
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDoitac.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDriver.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDriverInfo.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fHopDong.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fInsertStore.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fMenu.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fTaoHopDong.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThuNhap.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fXuLyDonHang.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fRegister_KhachHang.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.DanhSachDoiTac.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fLogin.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fCustomer.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fHoaDon.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThaydoithongtin.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThongtin.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fRegister_TaiXe.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fXemDonHang.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.NhanVien.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.exe
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.pdb
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.exe.config
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.exe
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\bin\Debug\QuanLyGiaoHang.pdb
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDoitac.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDriver.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fDriverInfo.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fHopDong.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fInsertStore.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fMenu.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fTaoHopDong.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThuNhap.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fXuLyDonHang.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fRegister_KhachHang.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.DanhSachDoiTac.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fLogin.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fCustomer.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fHoaDon.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThaydoithongtin.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fThongtin.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fRegister_TaiXe.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.fXemDonHang.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.Properties.Resources.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.NhanVien.resources
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.exe
+C:\Users\Admin\Desktop\New folder (2)\QuanLyGiaoHang\QuanLyGiaoHang\QuanLyGiaoHang\obj\Debug\QuanLyGiaoHang.pdb
